@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR1", "LR1\LR1.csproj", "{EFF03F0D-6E19-4A02-8946-3FB46A04E95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodePasswordDLL.Test", "CodePasswordDLL.Test\CodePasswordDLL.Test.csproj", "{7AEDC7CB-44DA-4FC5-90C4-3EBC3F711A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF03F0D-6E19-4A02-8946-3FB46A04E95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF03F0D-6E19-4A02-8946-3FB46A04E95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF03F0D-6E19-4A02-8946-3FB46A04E95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF03F0D-6E19-4A02-8946-3FB46A04E95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEDC7CB-44DA-4FC5-90C4-3EBC3F711A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEDC7CB-44DA-4FC5-90C4-3EBC3F711A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEDC7CB-44DA-4FC5-90C4-3EBC3F711A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEDC7CB-44DA-4FC5-90C4-3EBC3F711A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {529A27E7-4AAF-4A4B-95F5-E6C7B61EEF87}
+	EndGlobalSection
+EndGlobal
